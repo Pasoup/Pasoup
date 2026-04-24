@@ -27,4 +27,31 @@ Welcome to my corner of GitHub! I'm a Software Engineering student passionate ab
 
 **Tools & Frameworks:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+Here are a few of my favorite projects I've built so far:
+
+* **[Medicine Detecction App]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/Medicine_detection_WebApp_demov1.git))** *a medicine detection app which is used to identify, and make sure that the medicines persribe are the right one. Made during my internship at BUC Company*
+    > **Tech:** [Python, Yolo, Roboflow]
+
+* **[CollaborativeCodingApp]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/Collaborate-Coding-App.git))** *A project made with a team of 3, the goal of this project is for coders to enjoy a nice space where they can code together INREAL TIME, features a calling system, chat room, and a worshop area where coders can collaborate together!*
+    > **Tech:** [Python, ZODB]
+
+* **[CodeForge]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/website-project-Y2.git))** *A website develop for coders to learn and grow! featuring 3 main langugaes that are taught from our website, C++, Python, and Java. A place where people inspiring to code come and learn the basic of each language, and get a booste start on their journey!*
+    > **Tech:** [HTML,CSS,JAVA,TAILWIND,FASTAPI]
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to chatting about tech, internships, or cool project ideas. 
+
+* 💼 **LinkedIn:** [www.linkedin.com/in/pasu-leelahajiva-488b30357]
+* 📧 **Email:** [pasuleela@gmail.com]
+
+⭐️ *Thanks for stopping by my profile!*
