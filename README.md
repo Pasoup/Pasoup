@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineering Student | Builder | Problem Solver
 
-Welcome to my corner of GitHub! I'm a Software Engineering student passionate about writing clean code, building efficient applications, and constantly learning new technologies. When I'm not studying for exams, I'm usually hacking away at personal projects.
+I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ---
 
@@ -10,8 +10,6 @@ Welcome to my corner of GitHub! I'm a Software Engineering student passionate ab
 
 * 🔭 **Currently working on:** Building my portfolio and leveling up my engineering skills.
 * 🌱 **Currently learning:** [e.g., React, Python, Docker, Data Structures]
-* 👯 **Looking to collaborate on:** Open-source beginner projects and hackathons.
-* 💬 **Ask me about:** [e.g., My favorite algorithms, student tech communities, what I'm currently coding]
 * ⚡ **Fun fact:** [e.g., I drink way too much coffee / I can fix your printer (but please don't ask me to)]
 
 ---
@@ -49,7 +47,7 @@ Here are a few of my favorite projects I've built so far:
 
 ### 📫 Let's Connect!
 
-I'm always open to chatting about tech, internships, or cool project ideas. 
+I'm always open to chatting 
 
 * 💼 **LinkedIn:** [www.linkedin.com/in/pasu-leelahajiva-488b30357]
 * 📧 **Email:** [pasuleela@gmail.com]
