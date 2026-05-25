@@ -1,6 +1,6 @@
 # Hi there, I'm Pasoup! 👋
 
-### 👨‍💻 Software Engineering Student | Builder | Problem Solver
+### 👨‍💻 Software Engineering Student | Larper | Buzz and Chuzz
 
 I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
@@ -34,8 +34,8 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 Here are a few of my favorite projects I've built so far:
 
-* **[Medicine Detecction App]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/Medicine_detection_WebApp_demov1.git))** *a medicine detection app which is used to identify, and make sure that the medicines persribe are the right one. Made during my internship at BUC Company*
-    > **Tech:** [Python, Yolo, Roboflow]
+* **[Medicine Detecction App]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/backup_v3_webapp))** *a medicine detection web app which is used to identify, and make sure that the medicines persribe are the right one. Made during my internship at BUC Company, wrote full stack*
+    > **Tech:** [Python, Yolo, Roboflow,React,Tailwindcss,js]
 
 * **[CollaborativeCodingApp]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/Collaborate-Coding-App.git))** *A project made with a team of 3, the goal of this project is for coders to enjoy a nice space where they can code together INREAL TIME, features a calling system, chat room, and a worshop area where coders can collaborate together!*
     > **Tech:** [Python, ZODB]
