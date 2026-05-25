@@ -35,13 +35,13 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 Here are a few of my favorite projects I've built so far:
 
 * **[Medicine Detecction App]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/backup_v3_webapp))** *a medicine detection web app which is used to identify, and make sure that the medicines persribe are the right one. Made during my internship at BUC Company, wrote full stack*
-    > **Tech:** [Python, Yolo, Roboflow,React,Tailwindcss,js]
+    > **Tech:** [Python,Yolo,Roboflow,React,Tailwindcss,js,FastAPI]
 
 * **[CollaborativeCodingApp]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/Collaborate-Coding-App.git))** *A project made with a team of 3, the goal of this project is for coders to enjoy a nice space where they can code together INREAL TIME, features a calling system, chat room, and a worshop area where coders can collaborate together!*
     > **Tech:** [Python, ZODB]
 
 * **[CodeForge]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/website-project-Y2.git))** *A website develop for coders to learn and grow! featuring 3 main langugaes that are taught from our website, C++, Python, and Java. A place where people inspiring to code come and learn the basic of each language, and get a booste start on their journey!*
-    > **Tech:** [HTML,CSS,JAVA,TAILWIND,FASTAPI]
+    > **Tech:** [Html,Css,Java,Tailwind,FastAPI]
 
 ---
 
