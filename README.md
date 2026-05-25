@@ -1,4 +1,4 @@
-# Hi there, I'm Pasoup! 👋
+# Hi there, I'm Pasu! 👋
 
 ### 👨‍💻 Software Engineering Student | Larper | Buzz and Chuzz
 
