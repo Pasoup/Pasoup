@@ -1,6 +1,6 @@
 # Hi there, I'm Pasu! 👋
 
-### 👨‍💻 Software Engineering Student | Larper | Buzz and Chuzz
+### Software Engineering Student KMITL | Larper | Buzz and Chuzz
 
 I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
@@ -15,8 +15,6 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ### 🛠️ Tech Stack & Tools
 
-*Here are some of the technologies I've been working with:*
-
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,9 +27,7 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ---
 
-### 📂 Featured Projects
-
-Here are a few of my favorite projects I've built so far:
+### Projects
 
 * **[Medicine Detecction App]([https://github.com/Pasoup/your-repo-link](https://github.com/Pasoup/backup_v3_webapp))** *a medicine detection web app which is used to identify, and make sure that the medicines persribe are the right one. Made during my internship at BUC Company, wrote full stack*
     > **Tech:** [Python,Yolo,Roboflow,React,Tailwindcss,js,FastAPI]
@@ -44,11 +40,11 @@ Here are a few of my favorite projects I've built so far:
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'm always open to chatting 
 
-* 💼 **LinkedIn:** [www.linkedin.com/in/pasu-leelahajiva-488b30357]
-* 📧 **Email:** [pasuleela@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/pasu-leelahajiva-488b30357]
+* **Email:** [pasuleela@gmail.com]
 
-⭐️ *Thanks for stopping by my profile!*
+*Thanks for stopping by my profile!*
