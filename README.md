@@ -8,8 +8,8 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ### What I'm Up To
 
-Studying as a Y3 SE student
-Trying to make it in life 
+* Studying as a Y3 SE student
+* Trying to make it in life 
 
 ---
 
