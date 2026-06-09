@@ -13,7 +13,7 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
