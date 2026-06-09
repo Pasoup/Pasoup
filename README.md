@@ -6,11 +6,10 @@ I'm a Software Engineering student at KMITL currently Y2 going up to Y3
 
 ---
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
-* 🔭 **Currently working on:** Building my portfolio and leveling up my engineering skills.
-* 🌱 **Currently learning:** [e.g., React, Python, Docker, Data Structures]
-* ⚡ **Fun fact:** [e.g., I drink way too much coffee / I can fix your printer (but please don't ask me to)]
+Studying as a Y3 SE student
+Trying to make it in life 
 
 ---
 
